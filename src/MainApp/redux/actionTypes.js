@@ -1,0 +1,7 @@
+// Action types
+
+export const REQUEST_BOOKS = 'REQUEST_BOOKS'
+export const RECEIVE_BOOKS = 'RECEIVE_BOOKS'
+
+export const ADD_TO_READING_LIST = 'ADD_TO_READING_LIST';
+export const REMOVE_FROM_READING_LIST = 'REMOVE_FROM_READING_LIST' 
